@@ -1,0 +1,17 @@
+{
+    "name": "composite/laravel-vin",
+    "description": "VIN (Vehicle Identification Number) decoder for Laravel applications",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Composite\\LaravelVin\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Támba Bence",
+            "email": "btamba@composite.hu"
+        }
+    ],
+    "require": {}
+}
